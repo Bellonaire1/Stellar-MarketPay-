@@ -290,7 +290,7 @@ cd frontend && npm test && npm run lint && npx tsc --noEmit
 
 - Verify migration version uniqueness locally:
   ```bash
-  ./scripts/verify-migration-versions.sh
+  bash ./scripts/verify-migration-versions.sh
   ```
 
 ---
